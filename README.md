@@ -1,2 +1,0 @@
-# StagCNN
-Final Year Project 
